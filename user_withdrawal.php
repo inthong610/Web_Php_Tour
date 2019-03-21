@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  </head>
+  <body style="background:#d9d9d9;">
+
+    <form method="post" action="withdrawal_pwd.php">
+    <center><br><label>비밀번호를 입력하세요.</label></br></center>
+    <center><div><br></br>
+    <input type="password" placeholder="비밀번호 입력" style="height:35px;" name="pwd"></input>
+  <input type="submit" value="확인" class="btn btn-success"></input></div>
+</center>
+</form>
+
+  </body>
+</html>
